@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-<!--
-**JudeSeo/JudeSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div>
   <a href="https://solved.ac/gn0408"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gn0408"/></a>
 </div>
+
+<!--
+**JudeSeo/JudeSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
