@@ -2,9 +2,9 @@
 
 <div>
   <a href="https://solved.ac/gn0408"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gn0408"/></a>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudeSeo&show_icons=true&theme=dracula)
 </div>
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudeSeo&show_icons=true&theme=dracula)
 <!--
 **JudeSeo/JudeSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
