@@ -5,8 +5,8 @@
   <img src="http://mazandi.herokuapp.com/api?handle=gn0408&theme=warm"/>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudeSeo&show_icons=true&theme=dracula)
-[![GitHub Streak](https://streak-stats.demolab.com?user=JudeSeo&theme=github-dark&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudeSeo&layout=compact&exclude_repo=EatsOrder&hide=css,html&theme=dark&hide_border=true&border_radius=20)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JudeSeo&theme=github-dark&hide_border=true&border_radius=20&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
   
 </div>
 
