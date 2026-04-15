@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://solved.ac/gn0408"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gn0408"/></a>
-  <img src="http://mazandi.herokuapp.com/api?handle=gn0408&theme=warm"/> 
+  <img src="http://mazandi.herokuapp.com/api?handle=gn0408&theme=gold"/> 
 </div>
 
 <!--
